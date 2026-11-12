@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /.preview/
+Disallow: /B-Tech_Design_System.html
+Disallow: /B-Tech_Prompt_Site_Institucional.md
